@@ -17,7 +17,7 @@ Veja um pouco sobre mim:<br>
 
 <div align="center" style="display: inline_block"><br>
   <h3>Aprendendo as tecnologias:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Python" height="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
 </div>
 <br>  
