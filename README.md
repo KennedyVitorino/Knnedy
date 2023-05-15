@@ -24,7 +24,7 @@ Veja um pouco sobre mim:<br>
 
 ##
 <div align="center">
-  <h3>Social Networks:</h3>
+  <h3>Contatos:</h3>
   <a href="https://instagram.com/vitorinokennedy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dkennyvs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank">    </a>
   <a href="https://www.linkedin.com/in/kennedy-vitorino-595b63238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
