@@ -1,10 +1,10 @@
 <div align="center">
-  <h2> Hi, I'm Kennedy Vitorino</h2>
+  <h2> Oii, eu sou Davyd Kennedy Vitorino</h2>
 
-  See a little about me:<br>
-  🤓  Passionate about programming<br>
-  🎓  Student of Systems Analysis and Development at UNINASSAU<br>
-  🖥️  Learning and Evolving in Backend Development<br>
+Veja um pouco sobre mim:<br>
+   🤓 Apaixonado por programação<br>
+   🎓 Aluno de Análise e Desenvolvimento de Sistemas na UNINASSAU<br>
+   🖥️ Aprendendo e Evoluindo no Desenvolvimento Backend<br>
 </div>
 
 ## 
