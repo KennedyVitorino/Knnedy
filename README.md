@@ -1,11 +1,11 @@
-<div align="center">
-  <h2> Oii, eu sou Davyd Kennedy Vitorino</h2>
+
+<h2> Oii, eu sou Davyd Kennedy Vitorino</h2>
 
  
-  Apaixonado por programação<br>
-  Aluno de Análise e Desenvolvimento de Sistemas na UNINASSAU<br>
-   🖥️ Aprendendo e Evoluindo no Desenvolvimento Backend<br>
-</div>
+Apaixonado por programação<br>
+Aluno de Análise e Desenvolvimento de Sistemas na UNINASSAU atualmente cursando o 3º período<br>
+Aprendendo e Evoluindo no Desenvolvimento Backend<br>
+
 
 ## 
 
