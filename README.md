@@ -19,8 +19,18 @@ Aluno de Análise e Desenvolvimento de Sistemas na UNINASSAU atualmente cursando
 
 
 ##
-
-![knnedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=knnedy&show_icons=true&theme=transparent)
+  
+  
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=knnedy&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=knnedy&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=knnedy&show_icons=true" />
+</picture>
+  
 
 ![Snake animation](https://github.com/kennedyvitorino/kennedyvitorino/blob/output/github-contribution-grid-snake.svg)
  </div>
