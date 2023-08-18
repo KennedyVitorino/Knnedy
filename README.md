@@ -1,5 +1,5 @@
 <h2> Oii, eu sou Davyd Kennedy Vitorino</h2>
-Aluno de Análise e Desenvolvimento de Sistemas na UNINASSAU atualmente cursando o 3º período<br>
+Aluno de Análise e Desenvolvimento de Sistemas na UNINASSAU atualmente cursando o 4ª período<br>
 
 ##
 
