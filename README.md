@@ -1,7 +1,5 @@
 <h2> Oii, eu sou Davyd Kennedy Vitorino</h2>
 
-##
-
 <div align="center" style="display: inline_block"><br>
   Atualmente aprendendo:<br>
   <img align="center" alt="Python" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -16,9 +14,7 @@
   <a href = "mailto:dkennyvs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank">    </a>
   <a href="https://www.linkedin.com/in/kennedy-vitorino-595b63238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
 ##
-  
   
 <picture>
 <source
