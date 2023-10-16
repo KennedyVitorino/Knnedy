@@ -1,4 +1,4 @@
-<h2> Oii, eu sou Davyd Kennedy Vitorino</h2>
+<h2> Oii 👋! Eu sou Kennedy Vitorino</h2>
 
 <div align="center" style="display: inline_block"><br>
   Atualmente aprendendo:<br>
