@@ -23,7 +23,7 @@ Aluno de Análise e Desenvolvimento de Sistemas na UNINASSAU atualmente cursando
   
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=knnedy&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=KennedyVitorino&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=kennedyvitorino&show_icons=true"
